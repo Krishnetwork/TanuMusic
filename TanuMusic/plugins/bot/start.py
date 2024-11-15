@@ -24,9 +24,9 @@ from config import BANNED_USERS
 from strings import get_string
 
 IMAGE = [
-"https://graph.org/file/f76fd86d1936d45a63c64.jpg",
-"https://graph.org/file/69ba894371860cd22d92e.jpg",
-"https://graph.org/file/67fde88d8c3aa8327d363.jpg",
+"https://i.ibb.co/BrLrWgV/photo-2024-11-13-14-34-58-7436772594994380880.jpg",
+"https://i.ibb.co/BrLrWgV/photo-2024-11-13-14-34-58-7436772594994380880.jpg",
+"https://i.ibb.co/BrLrWgV/photo-2024-11-13-14-34-58-7436772594994380880.jpg",
 "https://graph.org/file/3a400f1f32fc381913061.jpg",
 "https://graph.org/file/a0893f3a1e6777f6de821.jpg",
 "https://graph.org/file/5a285fc0124657c7b7a0b.jpg",
