@@ -3,7 +3,7 @@
 
 import requests
 from pyrogram import Client, filters
-from VenomX import app
+from TanuMusic import app
 from config import API_KEY
 
 
